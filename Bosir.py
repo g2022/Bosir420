@@ -56,7 +56,7 @@ logo = """\033[1;93m█████████
 \033[1;93m ██ ██
 \033[1;93m╔════════════════════════════════════════════╗
 \033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mME•|Mr.BOSIR420\033[1;93m          ║
-\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m : \033[1;93m\033[4mhttps://Github.com/Bosir420/Bosir420\033[0m \033[1;93m║
+\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m : \033[1;93m\033[4mhttps://Github.com/Bosir420\033[0m \033[1;93m║
 \033[1;93m║\033[1;96m* \033[1;93mWhatsApp \033[1;93m: \033[1;93m0856-9101-5635\033[1;93m                 ║
 \033[1;93m╚════════════════════════════════════════════╝"""
 
@@ -77,9 +77,9 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 085691015635\x1b[1;96m  
+print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 095691015352\x1b[1;96m  
 \033[1;96m [¤] \x1b[1;93mSELAMAT DATAMG\x1b[1;96m      [¤] \x1b[1;93mFACEBOOK : tools termux\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS MR.BLACK0304\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr black0304\x1b[1;96m"""
+\033[1;96m [¤] \x1b[1;93mTOOLS MR.BOSIR0304\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr BOSIR0304\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "bosir"
@@ -109,7 +109,7 @@ def login():
         os.system('clear')
         print logo
         print 42*"\033[1;96m="
-        print('\033[1;96m[☆] \x1b[1;93mLOGIN AKUN FACEBOOK ANDA \x1b[1;96m[☆]' )
+        print('\033[1;96m[☆] \x1b[1;93mLOGIN FRESH FACEBOOK ID \x1b[1;96m[☆]' )
         id = raw_input('\033[1;96m[+] \x1b[1;93mID/Email \x1b[1;91m: \x1b[1;92m')
         pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword \x1b[1;91m: \x1b[1;92m')
         tik()
